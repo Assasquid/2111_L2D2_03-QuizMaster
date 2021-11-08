@@ -240,6 +240,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: {fileID: 11400000, guid: f3931565c8433b14cac49c092cffadd2, type: 2}
   questionText: {fileID: 1031915328}
+  answerButtons:
+  - {fileID: 594097605}
 --- !u!1001 &75214054
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -426,6 +428,11 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &594097605 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7408902536111364497, guid: 7f85c8d399aafe045bdda09618a4e0c0, type: 3}
+  m_PrefabInstance: {fileID: 8669254009181245552}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &834526755
 GameObject:
   m_ObjectHideFlags: 0
@@ -484,7 +491,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Quiz-i-cool
+  m_text: Assa's'QUIZ
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 873462a893835844e932d677e87d1fac, type: 2}
   m_sharedMaterial: {fileID: 3291262300635321693, guid: 873462a893835844e932d677e87d1fac, type: 2}
