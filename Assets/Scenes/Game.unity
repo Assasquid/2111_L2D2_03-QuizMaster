@@ -930,7 +930,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timeToCompleteQuestion: 10
-  timeToShowCorrectAnswer: 5
+  timeToShowCorrectAnswer: 2
   loadNextQuestion: 0
   fillFraction: 0
   isAnsweringQuestion: 0
